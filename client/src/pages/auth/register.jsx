@@ -1,13 +1,5 @@
-
-
 function AuthRegister() {
- 
-
-  return (
-    <div >
-          Resister
-    </div>
-  );
+  return <div>Resister</div>;
 }
 
 export default AuthRegister;
