@@ -124,6 +124,6 @@ function CommonForm({
       </Button>
     </form>
   );
-}
+  }
 
 export default CommonForm;
